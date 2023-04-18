@@ -1,1 +1,3 @@
 2023-04-17 17:38:55 error [www]: GET -- /hello -- ::1 -- Not Found
+2023-04-18 15:08:53 error [www]: GET -- /favicon.ico -- ::1 -- Not Found
+2023-04-18 15:23:26 error [www]: GET -- /favicon.ico -- ::ffff:192.168.0.16 -- Not Found
